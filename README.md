@@ -4,4 +4,4 @@ Step 1:
 
 Step 2:
 
-`git clone --depth 1 https://github.com/yourgotocoder/nvim-sudu-config ~/.config/nvim/lua/user/`
+``` git clone --depth 1 https://github.com/yourgotocoder/nvim-sudu-config ~/.config/nvim/lua/user/ ```
